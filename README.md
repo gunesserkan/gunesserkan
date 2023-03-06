@@ -14,10 +14,12 @@
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gunesserkan&show_icons=true&locale=en">
 </div>
-
+<br>
+<br>
 <div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunesserkan&">
 </div>
-
+<br>
+<br>
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunesserkan&show_icons=true&locale=en&layout=compact">
 </div>
