@@ -20,8 +20,7 @@
 
 <br>
 <br>
-<br>
-<br>
+
 
 <div align="center" width="500"height="500">
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=gunesserkan&show_icons=true&locale=en" width="500" height="250">
