@@ -29,11 +29,11 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 </a>
 </p>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunesserkan&show_icons=true&locale=en&layout=compact" alt="gunesserkan" /></p>
-
+<br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gunesserkan&show_icons=true&locale=en" alt="gunesserkan" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunesserkan&" alt="gunesserkan" /></p>
 
 
