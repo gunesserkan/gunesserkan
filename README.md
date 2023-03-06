@@ -24,21 +24,21 @@
 <br>
 
 <div align="center" width="500"height="500">
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=gunesserkan&show_icons=true&locale=en" width="75%">
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=gunesserkan&show_icons=true&locale=en" width="75%" height="100%">
 </div>
 
 <br>
 <br>
 
-<div align="right" width="500"height="500">
-<img align ="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunesserkan&show_icons=true&locale=en&layout=compact" width="100%">
+<div align="center" width="500"height="500">
+<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunesserkan&show_icons=true&locale=en&layout=compact" width="75%" height="100%">
 </div>
 
 <br>
 <br>
 
-<div align="left" width="500"height="500">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunesserkan&" width="100%" height="100%">
+<div align="center" width="500"height="500">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunesserkan&" width="75%" height="100%">
 </div>
 
 
