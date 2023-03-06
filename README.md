@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Serkan Güneş</h1>
-<h3 align="center">subtitle</h3>
 
 - 🌱 I’m currently learning **Spring**
 
