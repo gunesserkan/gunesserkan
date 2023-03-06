@@ -24,7 +24,7 @@
 <br>
 
 <div align="center" width="500"height="500">
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=gunesserkan&show_icons=true&locale=en" width="50%" height="100%">
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=gunesserkan&show_icons=true&locale=en" width="50%" height="100%">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunesserkan&show_icons=true&locale=en&layout=compact" width="50%%">
 </div>
 
