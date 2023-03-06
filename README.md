@@ -25,14 +25,13 @@
 
 <div align="center" width="500"height="500">
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=gunesserkan&show_icons=true&locale=en" width="50%">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gunesserkan&show_icons=true&locale=en&layout=compact" width="50%%">
 </div>
 
 <br>
 <br>
 
-<div align="right" width="50%"height="400">
-
+<div align="right" width="500"height="500">
+<img align ="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunesserkan&show_icons=true&locale=en&layout=compact" width="50%%">
 </div>
 
 <br>
