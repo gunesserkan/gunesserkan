@@ -38,7 +38,7 @@
 <br>
 
 
-<div align="left" width="500"height="500">
+<div align="left" width="400"height="400">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunesserkan&show_icons=true&locale=en&layout=compact" width="100%" height="100%">
 </div>
 
