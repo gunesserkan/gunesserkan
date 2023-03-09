@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serkan Güneş</h1>
+![](https://visitor-badge.laobi.icu/badge?page_id=gunesserkan.gunesserkan)
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" style="margin-left:1.0em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
 <img align="left" style="margin-left:0.5em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
